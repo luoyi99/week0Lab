@@ -82,7 +82,7 @@ void loop(){
   delay(1000);
 }
 
-void loop2() { 
+void loop3() { 
     float initialHumidity = bme.readHumidity();
     delay(1000); // Wait for a short time to get a baseline humidity reading
 
